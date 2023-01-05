@@ -1,0 +1,7 @@
+.terraform
+.tfstate
+.terraform.lock.hcl
+db_cred.txt
+terraform.tfstate
+terraform.tfstate.backup
+gitignore/*
